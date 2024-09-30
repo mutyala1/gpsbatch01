@@ -1,9 +1,11 @@
-class Hello #dev2
+
+class Hello #Dev1
  {
-	 Public static Void main (Strings {})#dev2
+	 Public static Void main (Strings {})#dev1
+
 	
 
 	 {
-		 System.out.println ("Hello World")
+		 System.out.println ("Hello World from Dev1")
 	 }
 }#dev2

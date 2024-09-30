@@ -1,0 +1,15 @@
+<<<<<<< HEAD
+class Hello #dev2
+ {
+	 Public static Void main (Strings {})#dev2
+=======
+class Hello #Dev1
+ {
+	 Public static Void main (Strings {})#dev1
+>>>>>>> c18023e123255efbc02fcf002aad7db99aee7496
+	
+
+	 {
+		 System.out.println ("Hello World from Dev1")
+	 }
+}#dev2
